@@ -1,4 +1,4 @@
-# Smart-Inventory-Shortage-Prediction-Suite
+# Automated-Inventory-Shortage-Prediction-System
 
 This project predicts supply shortages using a combination of LSTM, XGBoost, and hybrid models, tailored to handle highly imbalanced datasets. It also features a Retrieval-Augmented Generation (RAG) based chatbot that offers real-time, context-aware insights into shortage causes.
 
